@@ -1,0 +1,1 @@
+{"id":"demo-capacitance","source_dataset":"user-supplied","formula":{"name":"Capacitance definition","expression":"C = \\frac{Q}{V}","description":"Capacitance from charge and potential difference.","domain":"Electrostatic equilibrium; finite nonzero voltage."}}

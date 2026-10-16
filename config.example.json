@@ -1,0 +1,5 @@
+{
+  "model": "qwen3.8-flash",
+  "temperature": 0.6,
+  "max_tokens": 28000
+}

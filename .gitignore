@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+outputs/
+runs/
+*.tmp
+*.zip
+!examples/*.jsonl
