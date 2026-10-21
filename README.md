@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-TIRE-181717?logo=github)](https://github.com/ScienceOne-AI/TIRE)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-TIRE-yellow)](https://huggingface.co/datasets/ScienceOne-AI/TIRE)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.25134-b31b1b?logo=arxiv)](https://arxiv.org/abs/2610.25134)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 **English** | [简体中文](README_zh.md)
@@ -118,13 +119,15 @@ The code is released under the [Apache License 2.0](LICENSE). The dataset is
 released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 See `THIRD_PARTY_NOTICES.md` for upstream sources and runtime dependencies.
 
-## Citation
+## 📖 Citation
 
-If TIRE is useful in your research, please cite:
+If TIRE is useful for your research, please cite our paper.
 
-```text
-TIRE: Top-Down Formula Instantiation with Reliable Execution for Physics
-Problem Synthesis.
+```bibtex
+@misc{tire2026,
+  title  = {TIRE: Top-Down Formula Instantiation with Reliable Execution for Physics Problem Synthesis},
+  author = {Xiaoyu Wu and Zhaoxin Yu and Xinglin Xiao and Nan Xu},
+  year   = {2026},
+  url    = {https://arxiv.org/abs/2610.25134}
+}
 ```
-
-The formal citation will be updated with the public paper version.

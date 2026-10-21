@@ -2,9 +2,10 @@
 
 **基于可靠执行的自顶向下公式实例化**
 
-![GitHub](https://img.shields.io/badge/GitHub-TIRE-181717?logo=github)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-TIRE-yellow)
-![许可证](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-TIRE-181717?logo=github)](https://github.com/ScienceOne-AI/TIRE)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-TIRE-yellow)](https://huggingface.co/datasets/ScienceOne-AI/TIRE)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.25134-b31b1b?logo=arxiv)](https://arxiv.org/abs/2610.25134)
+[![许可证](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 [English](README.md) | **简体中文**
 
@@ -109,13 +110,15 @@ steps/                   公式、程序、单测、参数、题面、蒸馏、�
 代码使用 [Apache License 2.0](LICENSE)。数据集采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)。
 上游来源和运行依赖见 `THIRD_PARTY_NOTICES.md`。
 
-## 引用
+## 📖 引用
 
-如果 TIRE 对你的研究有帮助，请引用：
+如果 TIRE 对你的研究有帮助，请引用我们的论文。
 
-```text
-TIRE: Top-Down Formula Instantiation with Reliable Execution for Physics
-Problem Synthesis.
+```bibtex
+@misc{tire2026,
+  title  = {TIRE: Top-Down Formula Instantiation with Reliable Execution for Physics Problem Synthesis},
+  author = {Xiaoyu Wu and Zhaoxin Yu and Xinglin Xiao and Nan Xu},
+  year   = {2026},
+  url    = {https://arxiv.org/abs/2610.25134}
+}
 ```
-
-正式引用格式将在论文公开版本发布后补充。
